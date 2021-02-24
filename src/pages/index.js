@@ -12,7 +12,7 @@ class BlogIndex extends React.Component {
 				<div className="blog-container">
 					<section>
 						<div className="post-summary">
-							<p>May 4th, 2019</p>
+							<p>May 4th, 2020</p>
 							<h2>Cheddar cheese and biscuits</h2>
 							<p>
 								Cheese and wine rubber cheese airedale cottage cheese the big cheese stinking bishop
